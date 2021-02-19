@@ -1,1 +1,1 @@
-read me git adds
+git  使用重修 ！！！！！
